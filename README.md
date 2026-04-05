@@ -6,7 +6,7 @@ Claude Code is Anthropic's CLI for interacting with Claude from the terminal to 
 
 This repository contains a mirrored `src/` snapshot for research and analysis.
 
-- **Public exposure identified on**: 2026-03-31
+
 - **Language**: TypeScript
 - **Runtime**: Bun
 - **Terminal UI**: React + [Ink](https://github.com/vadimdemedes/ink)
