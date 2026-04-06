@@ -1,12 +1,4 @@
 
-
-## Repository Scope
-
-Claude Code is Anthropic's CLI for interacting with Claude from the terminal to perform software engineering tasks such as editing files, running commands, searching codebases, and coordinating workflows.
-
-This repository contains a mirrored `src/` snapshot for research and analysis.
-
-
 - **Language**: TypeScript
 - **Runtime**: Bun
 - **Terminal UI**: React + [Ink](https://github.com/vadimdemedes/ink)
